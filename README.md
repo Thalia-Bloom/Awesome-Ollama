@@ -131,7 +131,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark:, Desktop App :heavy_check_mark:, Multi Function :heavy_check_mark: | Multi-platform downloads |
 | [OMeter](https://github.com/EndoTheDev/OMeter)                      | Benchmark and compare Ollama models across local and cloud endpoints                              | python                   |
-| [Usage HUD](https://hud.thaliabloom.com/)                           | Native macOS menu-bar meter with exact token counts for today and the rolling seven days, alongside Claude, Codex, Gemini and Grok usage windows. Paid, $9. | Download                 |
+| [Usage HUD](https://hud.thaliabloom.com/)                           | Native macOS menu-bar meter with exact token counts for today and the rolling seven days, alongside Claude, Codex, Gemini and Grok usage windows. Free. | Download                 |
 
 ## Package Manager
 
